@@ -5,15 +5,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Qgis-#589632?style=flat-square&logo=Qgis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ArcGIS-#589632?style=flat-square&logo=ArcGIS&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-#003B57?style=flat-square&logo=SQLite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white" alt="QGIS Badge"/>
+      <img src="https://img.shields.io/badge/ArcGIS-589632?style=flat-square&logo=ArcGIS&logoColor=white" alt="ArcGIS Badge"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R Badge"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" alt="SQLite Badge"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
     </td>
   </tr>
 </table>
+
 
 <!--
 **Goodwlsdn/Goodwlsdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
