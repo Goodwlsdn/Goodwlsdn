@@ -4,7 +4,7 @@
 
 ### 🚀 Skills Overview  
 
-#### 🏆 **Strong At**  
+#### 🏆 **Strong**  
 <table>  
   <tr>  
     <td align="center">  
